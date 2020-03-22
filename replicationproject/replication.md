@@ -107,17 +107,45 @@ This project is related to mine because (insert reasons here).
 
 ## Process documentation
 
-*In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
-
-*This should have quite a lot of information!*
-
-*There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
-
 ![Image](1.fruitwithearphones.jpeg)
 
-*Include screenshots of the code you have used.*
+
+![Image](2.circuitformedfromorangetobanana.jpeg)
 
 
+![Image](3.addidnganotherfruit.jpeg)
+
+
+![Image](4.substitutingspeaker.jpeg)
+
+
+![Image](5.tryingtoaddafourthfruit.jpeg)
+
+
+![Image](6.buttonAdisplayinglights.jpeg)
+
+
+![Image](7.pin1lights.jpeg)
+
+
+![Image](8.pin2lights.jpeg)
+
+![Image](9.buttonBlights.jpeg)
+
+![Image](10.changingfruittofoil.jpeg)
+
+![Image](11.attemptataddingmorenotesthroughbreadboard.jpeg)
+
+![Image](12.attemptataddingmorenotesothersideview.jpeg)
+
+![Image](13.didntworksoremovedotherelementsmadepianoplaybyself.jpeg)
+
+
+![Image](14.backtooriginaldesignshowignhighnotearrow.jpeg)
+
+![Image](15.backtooriginaldesginshowinglownotearrow.jpeg)
+
+![Image]()
 
 
 
