@@ -109,17 +109,21 @@ This project is related to mine because (insert reasons here).
 
 ![Image](1.fruitwithearphones.jpeg)
 This is a complete translation of the assigned 'banana keyboard' project, from this it was evident that the user became apart of the circuit and thus transfered the electirc current from the orange to the banana. In doing so code was given to make this interaction cause a tone to sound. To operate this action it is required that one hand touches the orange at all times, this is as the orange is connected via alligator clips to the ground source of the micro;bit. 
-Below shows a rough diagram of the connections between the elements of the circuit; 
 ![Image](2.circuitformedfromorangetobanana.jpeg) 
+Below shows a rough diagram of the connections between the elements of the circuit; 
+![Image](flowdiagram2fruits.JPG)
 
 Considerations from this intial project;
 - how can I elaberate on or change the existing elements?
-- 
-![Image](flow diagram- 2 fruits.JPG)
-
+- adding another key 
+-converting earphones to sepaker
+-creating sound from other sources 
+-display lights 
 
 ![Image](3.addidnganotherfruit.jpeg)
-
+To utelize the spare pin 2 I connected another fruit to form another key tone, the following code was used 
+![Image](code1replicationexactly.PNG)
+It is evident that both keys give differing effects, ones tone increases while the other decreases to create contrast 
 
 ![Image](4.substitutingspeaker.jpeg)
 
