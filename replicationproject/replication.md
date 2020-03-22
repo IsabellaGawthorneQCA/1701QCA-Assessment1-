@@ -122,7 +122,8 @@ Considerations from this intial project;
 
 ![Image](3.addidnganotherfruit.jpeg)
 To utelize the spare pin 2 I connected another fruit to form another key tone, the following code was used 
-![Image](code1replicationexactly.PNG)                             
+![Image](code1replicationexactly.PNG)  
+![Image](flowdiagram3fruits.JPG)  
 
 It is evident that both keys give differing effects, ones tone increases while the other decreases to create contrast 
 
@@ -140,26 +141,35 @@ utelizing buttons A and B as substitues for keys i could not create using the al
 ![Image](8.pin2lights.jpeg)
 ![Image](9.buttonBlights.jpeg)
 
-below are the codes used; 
+these are the codes used; 
 ![Image](codemakingbuttonsnotes.PNG)
 ![Image](codeletters.PNG)
 
-
+due to the perishable nature of fruit i decided to change the keys into pieces of alfoil, this is as alfoil works as an excellent conductor of electricity, later on in the final presentation the use of alfoil is more tidy. 
 ![Image](10.changingfruittofoil.jpeg)
 
+i tried another approach to adding more keys through the use of a breadboard. to do this i located a source online 'https://www.youtube.com/watch?v=ulKq5To9dmA' to assist with the coding and assembly of this project. however, i had to substitute certain wires as i did not have them and removed 2 keys in order to do so. As a result the piano would not play past the keys attached to pins 1 and 2. from this I gathered that the resistors may have not been the required type or that some step in this process went wrong. this is also why i decided to revert back to the original design as pins 1 and 2 where all that was required. 
 ![Image](11.attemptataddingmorenotesthroughbreadboard.jpeg)
-
 ![Image](12.attemptataddingmorenotesothersideview.jpeg)
-
+![Image](codebreadboardattempt.PNG)
+In attempting to fix the resistor problem i removed them all together, however this made the keys play by themselves as there are no signials indicating when the keys should stop or start playing. 
 ![Image](13.didntworksoremovedotherelementsmadepianoplaybyself.jpeg)
 
-
+reverting back to original concept design
+for pins 1 and 2 i decided to add corresponding light signals to indicate when the sound is high or when it is low.
 ![Image](14.backtooriginaldesignshowignhighnotearrow.jpeg)
-
 ![Image](15.backtooriginaldesginshowinglownotearrow.jpeg)
+code
+![Image](codesLED-arrows.PNG)
 
-![Image]()
+Buttons A and B now become back tracks so that the key notes can be layered 
+![Image](codebacktracks.PNG)
 
+to increase sound i further looked into the guitar on the microbit page and located the use of acceleration, from this i coded the micro;bit to play notes when tilted left or right. this was done becuase i did not want to eliminate the sounds from buttons A and B. 
+guitar code;
+![Image](microbitguitaracceleratometercode.PNG)
+tilting code for acceleration 
+![Image](codenotwantingtosubstitutebuttonsthustilt.PNG)
 
 
 
