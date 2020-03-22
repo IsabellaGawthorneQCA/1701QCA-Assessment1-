@@ -122,24 +122,27 @@ Considerations from this intial project;
 
 ![Image](3.addidnganotherfruit.jpeg)
 To utelize the spare pin 2 I connected another fruit to form another key tone, the following code was used 
-![Image](code1replicationexactly.PNG)
+![Image](code1replicationexactly.PNG)                             
+
 It is evident that both keys give differing effects, ones tone increases while the other decreases to create contrast 
 
 ![Image](4.substitutingspeaker.jpeg)
+By adding a speaker the project becomes much more inclusive of others to interact rather than just an individual expierence, this simply meant taking the alligator clips and unclipping them from the earphones, thus substituting the speaker in place
 
 
 ![Image](5.tryingtoaddafourthfruit.jpeg)
+wanting to increase the complexity of the project i attempted adding yet another key. however on several attempts of altering code and checking the wire connections, this attempt did not follow through. when adding the key to pin 0 it will only play the key before the other keys are pressed, once a key on pin 1 or 2 is played you cannot play pin 0 again.
+![Image](codeattempting4thfruitonpin0.PNG)
 
-
+utelizing buttons A and B as substitues for keys i could not create using the aligator clips and pins, to add more sounds and thus create more of a keyboard concept. to identify these notes the LED screen displays lights arrange in the letter of the note played.
 ![Image](6.buttonAdisplayinglights.jpeg)
-
-
 ![Image](7.pin1lights.jpeg)
-
-
 ![Image](8.pin2lights.jpeg)
-
 ![Image](9.buttonBlights.jpeg)
+below are the codes used; 
+![Image](codemakingbuttonsnotes.PNG)
+![Image](codeletters.PNG)
+
 
 ![Image](10.changingfruittofoil.jpeg)
 
