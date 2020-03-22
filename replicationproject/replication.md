@@ -139,6 +139,7 @@ utelizing buttons A and B as substitues for keys i could not create using the al
 ![Image](7.pin1lights.jpeg)
 ![Image](8.pin2lights.jpeg)
 ![Image](9.buttonBlights.jpeg)
+
 below are the codes used; 
 ![Image](codemakingbuttonsnotes.PNG)
 ![Image](codeletters.PNG)
