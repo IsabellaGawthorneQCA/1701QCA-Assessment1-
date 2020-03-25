@@ -175,7 +175,7 @@ Tilting code for acceleration
 
 link to video presentation https://youtu.be/aXNmyKd1xpY
 
-### Project title ###
+### Banana JamBoard ###
 
 ### Project description ###
 
@@ -183,15 +183,13 @@ link to video presentation https://youtu.be/aXNmyKd1xpY
 
 ### Showcase image ###
 
-*Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
-
-![Image](missingimage.png)
+![Image](final2.JPG)
 
 ### Additional view ###
 
-*Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
-
-![Image](missingimage.png)
+![Image](final3.JPG)
+![Image](final4.JPG)
+![Image](finalpresentation1.JPG)
 
 ### Reflection ###
 
