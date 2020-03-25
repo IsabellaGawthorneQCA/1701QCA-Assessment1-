@@ -18,6 +18,8 @@ Sibilim
 https://www.nime.org/proceedings/2019/nime2019_paper004.pdf
 
 ![Image](sibilim.PNG)
+
+
 The sibilim is also an approach to the keyboard in a differing form. it demonstrates how light sensors may be used in place of touch sensors. Both the banana keyboard and sibilim focus on recreating the experience of a standard keyboard in a more technologicaly interactive way. This device uses a carboard frame as a lowcost effective approach, this may be used when creating the final project of the banana keyboard. the flow of this circuit works in a similar way as well , showing thisinteraction from user to key to phone/microbit. 
 
 ### Related project 3 ###
@@ -27,7 +29,8 @@ https://otamatone.com/about-otamatone/
 
 ![Image](otamatone.PNG)
 
-This project is related to mine because (insert reasons here).
+
+when looking at the circuit functionality of both devices they are very similar, as both require two hands to opperate them. this is evident because the user completes the transmission of the electric current from one point of the deivce to another. The code of both projects tells us that once the user touches a certain point or 'pin' that it must produce a sound at a particular tone. 
 
 ### Related project 4 ###
 The sponge
@@ -36,7 +39,7 @@ http://www.martinmarier.com/wp/?page_id=12
 
 ![Image](thesponge2.PNG)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it is largely based on the use if touch sensors. when looking at how the internals of this device are set up it is very similar to that of the banana keyboard, however instead of fruit this device uses different, much smaller attachment to send signals back to a recievior. from this the way in which the sponge is touched dictates what types of sounds are produced. this is further a more complex approach to the banana keyboard concept, however it is noted that the use of an accelerator could be implimented into the future design. 
 
 ### Related project 5 ###
 touch keys
