@@ -1,8 +1,3 @@
-# Assessment 1: Replication project
-
-*Fill out the following workbook with information relevant to your project.*
-
-*Markdown reference:* [https://guides.github.com/features/mastering-markdown/](http://guides.github.com/features/mastering-markdown/)
 
 ## Replication project choice ##
 Banana keyboard 
@@ -16,15 +11,14 @@ https://www.nime.org/proceedings/2016/nime2016_paper0034.pdf
 
 ![Image](extendedclarinet.PNG)
 
-This project  
+This project relates on the basis of functionality and how the user interacts with the device. Both prioritise the inclusivity of the user in making the instrument work. the clarinets function relies on the user physically playing the instrument to send signals to the attachment created (the bell). This relates to the keyboard as we see this need for physical action to cause reaction in electrical sygnals. the augumented clarinet also focuses on maintaining the original form and way in which it is played, when comparing this to the banana keyboard it is evident that the pressing on the key motion maintains these aspects as well. this device uses a touch sensor technology to switch between differing modes, in the keyboard the same concept is used to send signals to the microbit and speaker. 
 
 ### Related project 2 ###
 Sibilim
 https://www.nime.org/proceedings/2019/nime2019_paper004.pdf
 
 ![Image](sibilim.PNG)
-
-This project is related to mine because (insert reasons here).
+The sibilim is also an approach to the keyboard in a differing form. it demonstrates how light sensors may be used in place of touch sensors. Both the banana keyboard and sibilim focus on recreating the experience of a standard keyboard in a more technologicaly interactive way. This device uses a carboard frame as a lowcost effective approach, this may be used when creating the final project of the banana keyboard. the flow of this circuit works in a similar way as well , showing thisinteraction from user to key to phone/microbit. 
 
 ### Related project 3 ###
 Otamatone 
