@@ -16,7 +16,7 @@ https://www.nime.org/proceedings/2016/nime2016_paper0034.pdf
 
 ![Image](extendedclarinet.PNG)
 
-This project ............
+This project  
 
 ### Related project 2 ###
 Sibilim
