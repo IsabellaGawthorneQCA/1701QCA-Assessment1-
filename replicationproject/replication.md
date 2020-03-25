@@ -14,15 +14,15 @@ Banana keyboard
 The extended clarinet 
 https://www.nime.org/proceedings/2016/nime2016_paper0034.pdf
 
-![Image](missingimage.png)
+![Image](extendedclarinet.PNG)
 
-This project is related to mine because (insert reasons here).
+This project ............
 
 ### Related project 2 ###
 Sibilim
 https://www.nime.org/proceedings/2019/nime2019_paper004.pdf
 
-![Image](missingimage.png)
+![Image](sibilim.PNG)
 
 This project is related to mine because (insert reasons here).
 
@@ -31,7 +31,7 @@ Otamatone
 
 https://otamatone.com/about-otamatone/
 
-![Image](missingimage.png)
+![Image](otamatone.PNG)
 
 This project is related to mine because (insert reasons here).
 
@@ -40,7 +40,7 @@ The sponge
 
 http://www.martinmarier.com/wp/?page_id=12
 
-![Image](missingimage.png)
+![Image](thesponge2.PNG)
 
 This project is related to mine because (insert reasons here).
 
@@ -49,16 +49,16 @@ touch keys
 
 https://www.nime.org/proceedings/2012/nime2012_195.pdf
 
-![Image](missingimage.png)
+![Image](touchkeys.PNG)
 
 This project is related to mine because (insert reasons here).
 
 ### Related project 6 ###
-(Insert name of project)
+Somacoustics
 
-(Insert URL to project)
+https://www.nime.org/proceedings/2019/nime2019_paper019.pdf
 
-![Image](missingimage.png)
+![Image](somacoustics.PNG)
 
 This project is related to mine because (insert reasons here).
 
@@ -143,14 +143,14 @@ these are the codes used;
 ![Image](codemakingbuttonsnotes.PNG)
 ![Image](codeletters.PNG)
 
-due to the perishable nature of fruit i decided to change the keys into pieces of alfoil, this is as alfoil works as an excellent conductor of electricity, later on in the final presentation the use of alfoil is more tidy. 
+due to the perishable nature of fruit i decided to change the keys into pieces of alfoil, this is as alfoil works as an excellent conductor of electricity, later on in the final presentation the use of alfoil will be more tidy. 
 ![Image](10.changingfruittofoil.jpeg)
 
 i tried another approach to adding more keys through the use of a breadboard. to do this i located a source online 'https://www.youtube.com/watch?v=ulKq5To9dmA' to assist with the coding and assembly of this project. however, i had to substitute certain wires as i did not have them and removed 2 keys in order to do so. As a result the piano would not play past the keys attached to pins 1 and 2. from this I gathered that the resistors may have not been the required type or that some step in this process went wrong. this is also why i decided to revert back to the original design as pins 1 and 2 where all that was required. 
 ![Image](11.attemptataddingmorenotesthroughbreadboard.jpeg)
 ![Image](12.attemptataddingmorenotesothersideview.jpeg)
 ![Image](codebreadboardattempt.PNG)
-In attempting to fix the resistor problem i removed them all together, however this made the keys play by themselves as there are no signials indicating when the keys should stop or start playing. 
+In attempting to fix the resistor problem i removed them all together, however this made the keys play by themselves as there are no signials indicating when the keys should stop or start playing. although this was an interesting concept it removed the element of interaction between user and device, therefore i moved on from this concept. 
 ![Image](13.didntworksoremovedotherelementsmadepianoplaybyself.jpeg)
 
 reverting back to original concept design
@@ -163,17 +163,17 @@ code
 Buttons A and B now become back tracks so that the key notes can be layered 
 ![Image](codebacktracks.PNG)
 
-to increase sound i further looked into the guitar on the microbit page and located the use of acceleration, from this i coded the micro;bit to play notes when tilted left or right. this was done becuase i did not want to eliminate the sounds from buttons A and B. 
-guitar code;
+To increase sound i further looked into the guitar on the microbit page and located the use of acceleration, from this I coded the micro;bit to play notes when tilted left or right. This was done becuase I did not want to eliminate the sounds from buttons A and B. 
+Guitar code;
 ![Image](microbitguitaracceleratometercode.PNG)
-tilting code for acceleration 
+Tilting code for acceleration 
 ![Image](codenotwantingtosubstitutebuttonsthustilt.PNG)
 
 
 
 ## Project outcome ##
 
-*Complete the following information.*
+link to video presentation https://youtu.be/aXNmyKd1xpY
 
 ### Project title ###
 
