@@ -11,45 +11,43 @@ Banana keyboard
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
 ### Related project 1 ###
-(Insert name of project)
-
-(Insert URL to project)
+The extended clarinet 
+https://www.nime.org/proceedings/2016/nime2016_paper0034.pdf
 
 ![Image](missingimage.png)
 
 This project is related to mine because (insert reasons here).
 
 ### Related project 2 ###
-(Insert name of project)
-
-(Insert URL to project)
+Sibilim
+https://www.nime.org/proceedings/2019/nime2019_paper004.pdf
 
 ![Image](missingimage.png)
 
 This project is related to mine because (insert reasons here).
 
 ### Related project 3 ###
-(Insert name of project)
+Otamatone 
 
-(Insert URL to project)
+https://otamatone.com/about-otamatone/
 
 ![Image](missingimage.png)
 
 This project is related to mine because (insert reasons here).
 
 ### Related project 4 ###
-(Insert name of project)
+The sponge
 
-(Insert URL to project)
+http://www.martinmarier.com/wp/?page_id=12
 
 ![Image](missingimage.png)
 
 This project is related to mine because (insert reasons here).
 
 ### Related project 5 ###
-(Insert name of project)
+touch keys
 
-(Insert URL to project)
+https://www.nime.org/proceedings/2012/nime2012_195.pdf
 
 ![Image](missingimage.png)
 
