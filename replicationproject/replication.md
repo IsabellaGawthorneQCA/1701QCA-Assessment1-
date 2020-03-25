@@ -3,7 +3,7 @@
 Banana keyboard 
 
 ## Related projects ##
-*Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
+
 
 ### Related project 1 ###
 The extended clarinet 
@@ -48,7 +48,7 @@ https://www.nime.org/proceedings/2012/nime2012_195.pdf
 
 ![Image](touchkeys.PNG)
 
-This project is related to mine because (insert reasons here).
+Touch keys are a much more advanced approach to augumenting the standard keyboard. the functionality of this device in essence is alike that of the banana keyboard, however this approach allows the user to do much more then press a key and have it play a single sound. this invention allows the user to change the pitch and tone of the note being played by sliding and performing other actions across the keys. it is likely that the basic components of coding for both would be similar, as both recieve a signal via touch and then transmit it to a receptor which performs the action of sound making. 
 
 ### Related project 6 ###
 Somacoustics
@@ -57,7 +57,7 @@ https://www.nime.org/proceedings/2019/nime2019_paper019.pdf
 
 ![Image](somacoustics.PNG)
 
-This project is related to mine because (insert reasons here).
+This device relates to my chosen project as it focuses on the importance of the users role within the function of the insturment. without the users movement the instrument will not work. the banana keyboard requires that the user is touching 2 points of the circuit at all times to complete the circuit itself. The somacoustic requires that the user wear the intrument and move to cause the functions to work. In a sense it is as if the somacoustic makes the user a key. 
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
@@ -191,12 +191,13 @@ link to video presentation https://youtu.be/aXNmyKd1xpY
 ### Reflection ###
 
 *Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
-
+I feel as though the most successful part of this project is the attainment of producing more then 2 tones of sound and providing differing ways to produce these sounds. I included an acceleration aspect via tilting the microbit to add 2 additional notes to the project, as well as added melodies as backtracks via the A and B buttons. Also adding the LED light symbols to create a distinction between the high and low sounds produced by pins 1 and 2 was also effective in creating cohesion between visuals and sound. i feel as though i could have improved upon the overall aesthtic elements, refinements could have been made with the use of differing materials such as plywood and copper tape. Also perhaps further research and investigation into the breadboard concepts explored may have lead me towards a more refined and substantial augmentation of the orginal device, however time restraints where at play. 
 
 *What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
-
+when wanting to develope more sounds i had to look for alternatives to producing more keys, this is when i reflected back on the use of acceleration as found in the earlier projects identified at the start of this assesment piece. i also kept in mind the improtance of interaction between user and device this is why i decided to keep the use of keys and otehr interactive elements when faced with the self playing piano made on the breadboard. 
 
 *What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
 
 
 *What might be an interesting extension of this project? In what other contexts might this project be used?*
+this could be created on a larger scale where the user gets to walk over or interacte with the device at a much larger scale. this would further increase the importance of the user to device relationship. this project could be used in....
