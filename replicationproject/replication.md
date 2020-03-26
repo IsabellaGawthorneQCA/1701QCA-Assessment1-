@@ -71,30 +71,40 @@ It was npot recognised that theire is a distinction between affordances and sign
 
 *What I learned: 
 affordances express how an object may possibly interact with its environment and poeple, and these can be percieved or not. with this in mind it is noted that a percieved affordance may actually be a misleading signifier, if done on purpose these are often to keep those who don't knwo about them from doing something/ interacting with the object. signifiers dictate possible actions and how to perform them. because of this a signifier must be percievable or else it wont work. 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+*What I would like to know more about: 
+"how do signifiers and affordances work in altering enviornments, and how does this effect human interaction with the environment?"
+
+*How this relates to the project I am working on: 
+the reading helps to understand what is required for a device to be successfully comprehended by the user. this may mean that certain symbols should be implemented in the final design of the project. 
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+*What I thought before: 
+when just reading the title i predicted that microinteractions reffered to subjects such as codes and electrical setups. it is clear now that it in fact means the smaller interactions the user has with the device and the parts which makeup the function of it. 
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+*What I learned: 
+a higher quality product will always pay extra attention to the micro interactions of the final product. this is as they make for a more complete and cohesive end product. "less means more" -it is better to have a more simplistic micro interaction as to not lose the user or disturb the products functionality. 
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+*What I would like to know more about: 
+I would like to know more about the individual aspects of the steps of micro interactions, being the trigger, rukles feedback and loops and modes. 
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+*How this relates to the project I am working on: 
+This reading highlights the importance of making the microinteractions of the project simplistic and easy to comprehend. potentially through symbols or other indicators. 
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+*What I thought before: 
+i did not realise the lengthof time and effort that goes into making projects. there is much trial and error involved and it takes a lot of experimenting to get to an end produdct. 
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+*What I learned: 
+with persistance anyone can learn how to code it just takes time and effort ot build skills. you have to experiment ot advance your projects and find what works best. As generations advance and grow up with technology thier is a wider understanding of how electronic devices operate from a younger age as well as being more tools and materials readily available. 
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+*What I would like to know more about: 
+I would like to look into processing with aurduino as i to am a visual learner. 
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
-
+*How this relates to the project I am working on:
+This reading helps to understand ways to approach the design process for this project, potentailly tools i could use and how coding can be learnt with practice. experimenting and finding the appropriate actions to take also seems of importancnce and iw ill consider this when adapting the banana keyboard. 
 
 ## Interaction flowchart ##
 *Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
@@ -192,7 +202,7 @@ link to video presentation https://youtu.be/aXNmyKd1xpY
 ### Reflection ###
 
 *Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
-I feel as though the most successful part of this project is the attainment of producing more then 2 tones of sound and providing differing ways to produce these sounds. I included an acceleration aspect via tilting the microbit to add 2 additional notes to the project, as well as added melodies as backtracks via the A and B buttons. Also adding the LED light symbols to create a distinction between the high and low sounds produced by pins 1 and 2 was also effective in creating cohesion between visuals and sound. i feel as though i could have improved upon the overall aesthtic elements, refinements could have been made with the use of differing materials such as plywood and copper tape. Also perhaps further research and investigation into the breadboard concepts explored may have lead me towards a more refined and substantial augmentation of the orginal device, however time restraints where at play. 
+I feel as though the most successful part of this project is the attainment of producing more then 2 tones of sound and providing differing ways to produce these sounds. I included an acceleration aspect via tilting the microbit to add 2 additional notes to the project, as well as added melodies as backtracks via the A and B buttons. Also adding the LED light symbols to create a distinction between the high and low sounds produced by pins 1 and 2 was also effective in creating cohesion between visuals and sound. i feel as though i could have improved upon the overall aesthtic elements, refinements could have been made with the use of differing materials such as plywood and copper tape. Also perhaps further research and investigation into the breadboard concepts explored may have lead me towards a more refined and substantial augmentation of the orginal device, however time restraints where at play. Also maybe more could have been done to highlight the micro-interactions of the project, such as the tilting left to right aspect, through the use of arrows or other symbols. 
 
 *What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
 when wanting to develope more sounds i had to look for alternatives to producing more keys, this is when i reflected back on the use of acceleration as found in the earlier projects identified at the start of this assesment piece. i also kept in mind the improtance of interaction between user and device this is why i decided to keep the use of keys and otehr interactive elements when faced with the self playing piano made on the breadboard. 
