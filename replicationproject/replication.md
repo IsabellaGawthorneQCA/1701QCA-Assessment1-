@@ -107,9 +107,9 @@ I would like to look into processing with aurduino as i to am a visual learner.
 This reading helps to understand ways to approach the design process for this project, potentailly tools i could use and how coding can be learnt with practice. experimenting and finding the appropriate actions to take also seems of importancnce and iw ill consider this when adapting the banana keyboard. 
 
 ## Interaction flowchart ##
-*Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
+*Draw a flowchart of the interaction process in your project. 
 
-![Image](missingimage.png)
+![Image](finalflow.JPG)
 
 ## Process documentation
 
@@ -208,7 +208,8 @@ I feel as though the most successful part of this project is the attainment of p
 when wanting to develope more sounds i had to look for alternatives to producing more keys, this is when i reflected back on the use of acceleration as found in the earlier projects identified at the start of this assesment piece. i also kept in mind the improtance of interaction between user and device this is why i decided to keep the use of keys and otehr interactive elements when faced with the self playing piano made on the breadboard. 
 
 *What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
+mostly the concepts for this assignment came from the related projects i analysed above. The otamatone gave me the concept of creating a mpre toy like apperance to the end product, from this i created a small double turntable shell that allows the user to hold with both hands comfortabley. the extended clarinet sparked the notion of using the LED lights available on the micro;bit and from this i combined the knowledge of signifiers and affordances to create arrow symbols which intidcate higher and lower tones. chapter 1 of micro-interactions made me reflect on the importance of maintaining simplicity and to not overcomplicate the project. from this i believe i created a device that was both simple to construct as a learner and to function as a user. 
 
 
 *What might be an interesting extension of this project? In what other contexts might this project be used?*
-this could be created on a larger scale where the user gets to walk over or interacte with the device at a much larger scale. this would further increase the importance of the user to device relationship. this project could be used in....
+this could be created on a larger scale where the user gets to walk over or interacte with the device at a much larger scale. this would further increase the importance of the user to device relationship. this project could be used in an educational way if the symbols were changed to note labels it could teach children how to hear for notes. 
