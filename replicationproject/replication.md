@@ -66,10 +66,11 @@ This device relates to my chosen project as it focuses on the importance of the 
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+*What I thought before: 
+It was npot recognised that theire is a distinction between affordances and signifiers, i always percieved them as the same thing. An affordance determines what actions are possible , where as a signifier communicates where the action should take place. 
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
-
+*What I learned: 
+affordances express how an object may possibly interact with its environment and poeple, and these can be percieved or not. with this in mind it is noted that a percieved affordance may actually be a misleading signifier, if done on purpose these are often to keep those who don't knwo about them from doing something/ interacting with the object. signifiers dictate possible actions and how to perform them. because of this a signifier must be percievable or else it wont work. 
 *What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
 
 *How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
