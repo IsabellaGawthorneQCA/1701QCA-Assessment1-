@@ -6,33 +6,15 @@
 
 *For a selection of 5 inventor kit experiments that you choose, fill out the following sections.
 
-### Experiment name ###
+### Experiment 1 ###
 
-(Replace this with the experiment name)
 
 #### Photo of completed project ####
 *In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
-![Image](missingimage.png)
+![Image](experiment1.JPG)
 
-(Insert a caption here)
-
-#### Reflection ####
-
-In this experiment, something new to me was or something I learned was (insert something here).
-
-This experiment could be the basis of a real world application such as (insert something here).
-
-### Experiment name ###
-
-(Replace this with the experiment name)
-
-#### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
-
-![Image](missingimage.png)
-
-(Insert a caption here)
+(saying hello to micrpo;bit)
 
 #### Reflection ####
 
@@ -40,16 +22,15 @@ In this experiment, something new to me was or something I learned was (insert s
 
 This experiment could be the basis of a real world application such as (insert something here).
 
-### Experiment name ###
+### Experiment 2 ###
 
-(Replace this with the experiment name)
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](experiment2.JPG)
 
-(Insert a caption here)
+(using a light sensor to create night or day mode)
 
 #### Reflection ####
 
@@ -57,16 +38,14 @@ In this experiment, something new to me was or something I learned was (insert s
 
 This experiment could be the basis of a real world application such as (insert something here).
 
-### Experiment name ###
-
-(Replace this with the experiment name)
+### Experiment 3 ###
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](experiment3.JPG)
 
-(Insert a caption here)
+(changing light intensity)
 
 #### Reflection ####
 
@@ -74,14 +53,28 @@ In this experiment, something new to me was or something I learned was (insert s
 
 This experiment could be the basis of a real world application such as (insert something here).
 
-### Experiment name ###
+### Experiment 7 ###
 
-(Replace this with the experiment name)
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](experiment7.JPG)
+
+(creating a fan and using java script)
+
+#### Reflection ####
+
+In this experiment, something new to me was or something I learned was (insert something here).
+
+This experiment could be the basis of a real world application such as (insert something here).
+
+### Experiment 6 ###
+
+#### Photo of completed project ####
+In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
+
+![Image](experiment6.JPG)
 
 (Insert a caption here)
 
