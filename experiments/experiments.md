@@ -8,9 +8,7 @@
 
 ### Experiment 1 ###
 
-
 #### Photo of completed project ####
-*In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
 ![Image](experiment1.JPG)
 
@@ -18,15 +16,14 @@
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was how to operate the LED screen of the micro;bit and create commands to the A and B buttons.From this i was able to connect additional buttons to the breadboard which served as a way of pressing the A and B buttons. 
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as light switch or train and bus signs which indicate what the next stop will be or the location users are traveling to.
+
 
 ### Experiment 2 ###
 
-
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](experiment2.JPG)
 
@@ -34,14 +31,14 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was how to operate and connect a light sensor.this involved using a resistor and small sensor which picked up on light or darkness and sent a signal back to the micro;bit. 
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as a night time mode function on a phone, where the phone screen light dims if the environemnt light darkens also. 
+
 
 ### Experiment 3 ###
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](experiment3.JPG)
 
@@ -49,15 +46,14 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was how to use the potentionmeter. this small elements allows for lgiht intensity of a LED to be altered. 
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as mood lighting installed in a room. also in cinemas where the lights turn off and on slowly to allow the eyes to adjust to a shift in lighting. 
+
 
 ### Experiment 7 ###
 
-
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](experiment7.JPG)
 
@@ -65,22 +61,22 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was how to type the code instead of using the blocks, as well as how to operate the small motor in the kit.
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as a large scaled fan or a boat motor mechanism.
+
 
 ### Experiment 6 ###
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](experiment6.JPG)
 
-(Insert a caption here)
+(operating a buzzer)
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was how to make sound using the micro;bit, code and buzzer. from this pressing buttons A, B OR both created different sounds.  
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as a fire alarm. 
 
